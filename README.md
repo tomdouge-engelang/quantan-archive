@@ -610,22 +610,22 @@ This is the MC / SC / NPC reference model.
                 NPC
         (background entities)
 
-Participants move up or down this hierarchy as events unfold
+Participants move up or down this hierarchy as events unfold 
 
-## Section 2 
+## Section 2
 
 # Relational Geometry of Attention
 *A Conceptual Model Linking Embodied Interaction, Salience, and Interpretation*
 
-**A geometric model of how attention flows from body, to interactions, to interpretation and abstraction.**   
+**A geometric model of how attention flows from body, to interactions, to interpretation and abstraction**
 
-This project proposes a **geometric model of attention and interaction** that traces how awareness moves from **embodied action in the body**, through **tools and effects in the world**, and into **interpretation and abstraction**. Using a small set of relational primitives—such as *point, vector, boundary, surface, and volume*—the model describes how perception, action, and meaning can be understood as part of a single relational structure. The framework serves as a conceptual foundation for the experimental language project **Quantan / Intuit**, whose design explores how such relational structures might be expressed directly in language.
+This project proposes a **geometric model of attention and interjection** that traces how awareness moves from **embodied action in the body**, through **tools and effects in the world**, and into **interpretation and abstraction**. Using a small set of relational primitives—such as *point, vector, boundary, surface, and volume*—the model describes how perception, action, and meaning can be understood as part of a single relational structure. The framework serves as a conceptual foundation for the experimental language project **Quantan / Intuit**, whose design explores how such relational structures might be expressed directly in language.
+
 ------------------------------------------------
 
 ## Contents  
 
 **Terminology Note**
-
 Layer 1 — Foundations,
 Layer 2 — Relational Primitives
 Layer 3 — Embodied Interaction
